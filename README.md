@@ -107,13 +107,3 @@ Controls Unresponsive: Restart the app or verify touchscreen functionality.
 Save Corruption: Game restarts with a “Save file corrupted” message.
 
 
-
-**Acknowledgements**
-
-Supervisor: Dr. Rashidah K. Namisanvu, Makerere University
-Team: BSE 25-31, Department of Networks
-Tools: Unity 6, C#, Microsoft Visual Studio Community 2022
-Inspiration: Uganda’s waste management challenges and educational needs
-
-
-Eco-Guardians: Waste Warriors of Uganda – Empowering communities through education and play!Follow us on X for updates.
